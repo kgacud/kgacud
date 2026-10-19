@@ -1,8 +1,6 @@
-![](https://github.com/hanx35414/hanx35414/blob/main/background.png)
-
 ### Overview
 
-`hanx35414` is a highly efficient and reliable professional full stack developer with extensive experience in several IT companies in the Philippines. He possesses a broad skill set focused on web and mobile application development, having worked on a range of products and tackled scalability challenges in production engineering.
+`kgacud` is a highly efficient and reliable professional full stack developer with extensive experience in several IT companies in the Philippines. He possesses a broad skill set focused on web and mobile application development, having worked on a range of products and tackled scalability challenges in production engineering.
 
 #### ✨ Technical Stacks ✨
 
